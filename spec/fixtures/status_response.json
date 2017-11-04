@@ -1,0 +1,84 @@
+{
+  "response": {
+    "r0": {
+      "name": "Bumps Wheeldrops",
+      "value": "0"
+    },
+    "r1": {
+      "name": "Wall",
+      "value": "0"
+    },
+    "r2": {
+      "name": "Cliff Left",
+      "value": "1"
+    },
+    "r3": {
+      "name": "Cliff Front Left",
+      "value": "1"
+    },
+    "r4": {
+      "name": "Cliff Front Right",
+      "value": "1"
+    },
+    "r5": {
+      "name": "Cliff Right",
+      "value": "1"
+    },
+    "r6": {
+      "name": "Virtual Wall",
+      "value": "0"
+    },
+    "r7": {
+      "name": "Motor Overcurrents",
+      "value": "0"
+    },
+    "r8": {
+      "name": "Dirt Detector - Left",
+      "value": "0"
+    },
+    "r9": {
+      "name": "Dirt Detector - Right",
+      "value": "0"
+    },
+    "r10": {
+      "name": "Remote Opcode",
+      "value": "0"
+    },
+    "r11": {
+      "name": "Buttons",
+      "value": "0"
+    },
+    "r12": {
+      "name": "Distance",
+      "value": "0"
+    },
+    "r13": {
+      "name": "Angle",
+      "value": "0"
+    },
+    "r14": {
+      "name": "Charging State",
+      "value": "2"
+    },
+    "r15": {
+      "name": "Voltage",
+      "value": "15391"
+    },
+    "r16": {
+      "name": "Current",
+      "value": "8"
+    },
+    "r17": {
+      "name": "Temperature",
+      "value": "40"
+    },
+    "r18": {
+      "name": "Charge",
+      "value": "1549"
+    },
+    "r19": {
+      "name": "Capacity",
+      "value": "2696"
+    }
+  }
+}
